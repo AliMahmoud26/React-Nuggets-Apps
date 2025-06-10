@@ -144,7 +144,7 @@ Questions
 */
 
 main {
-  min-height: 100vh;
+  min-height: fit-content;
   /* using flex because of better browser support */
   display: flex;
   justify-content: center;
